@@ -1,0 +1,5 @@
+python-telegram-bot
+dill
+emoji
+peewee
+dotenv
