@@ -1,0 +1,4 @@
+config/.env
+config/allowed_users.json
+venv/*
+__pycache__/
